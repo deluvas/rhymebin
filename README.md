@@ -1,6 +1,6 @@
 # README
 
-Autocomplete for writing lyrics that rhyme.
+Autocomplete featured editor for writing rhymes.
 
 Weekend project from a long time ago that I decided to save. 
 
