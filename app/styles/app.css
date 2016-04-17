@@ -1,0 +1,20 @@
+#editor {
+    height: 300px;
+    line-height: 1.4;
+}
+
+.row-header {
+    margin-bottom: 10px;
+}
+
+.ace-text-highlight {
+    position: absolute;
+    background-color: aliceblue;
+}
+
+footer {
+    font-size: 1.2em;
+}
+footer a {
+    margin: 0 5px;
+}
